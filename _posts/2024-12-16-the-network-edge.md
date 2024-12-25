@@ -139,4 +139,4 @@ Wireless is a hard environment to transfer data, the propagation environment can
 - Satellite: up to 45 Mbps per communication channel. and there is a delay of 270 msec to send a packet from the sender(satellite) to the receiver.
 ---
 ### References:
-- [Jim Kurose | 1.2 The network edge](https://youtu.be/k8NmM-hImBU?feature=shared)
+- [Jim Kurose 1.2 The network edge](https://youtu.be/k8NmM-hImBU?feature=shared)
