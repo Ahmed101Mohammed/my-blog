@@ -2,7 +2,7 @@
 title: Network Edge -> Access Networks & Physical Media
 date: 2024-12-16
 ---
-![](https://github.com/Ahmed101Mohammed/my-blog/blob/main/images/networks.jpg)
+![](https://raw.githubusercontent.com/Ahmed101Mohammed/my-blog/refs/heads/main/images/networks.jpg)
 To understand the relation between the *internet* and the **network edge** we need to talk about two things: 
 1. What networks are used to connect the **network edge** to the first hub router in the larger *Internet*?
 2. What is the physical media that is used across the **internet network**?
